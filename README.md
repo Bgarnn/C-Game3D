@@ -1,4 +1,4 @@
-\** Game3D - 3D Graphics Engine for Cuboid Worlds
+** Game3D - 3D Graphics Engine for Cuboid Worlds
 
 Welcome to Game3D, a project designed to render 3D environments based on cuboid worlds. This implementation offers a versatile and efficient solution for rendering immersive 3D scenes, making it an invaluable tool for game development and graphics programming within C programs.
 
